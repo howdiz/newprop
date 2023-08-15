@@ -2,7 +2,7 @@
   <div class="flex min-h-[calc(100vh-56px)] flex-col items-center justify-center px-5 md:px-0">
     <div class="flex w-full flex-row flex-wrap justify-center md:w-[700px]">
       <div class="flex w-[330px] flex-col items-start justify-start rounded p-5 md:w-1/2">
-        <h1 class="text-xl font-bold text-white">Nuxt.js 3 with Edgio</h1>
+        <h1 class="text-xl font-bold text-white">Nuxtjs 3 with Edgio</h1>
         <h3 class="mt-2 text-lg text-[#FFFFFF75]">Edgio supports all of the most powerful features of Nuxt.js 3!</h3>
         <a class="mt-auto text-[#01B18D] hover:underline" href="https://docs.edg.io/guides/nuxt3" target="_blank"> Learn More &rarr; </a>
       </div>
